@@ -1,0 +1,12 @@
+*
+!airports.csv
+!fly/
+!fly/flight_delay_pipeline.py
+!fly/flight_delay_model_artifacts/
+!fly/flight_delay_model_artifacts/**
+!flight_delay_business_recommendation_demo/
+!flight_delay_business_recommendation_demo/**
+**/__pycache__/
+**/*.pyc
+**/*.log
+**/.streamlit/secrets.toml
